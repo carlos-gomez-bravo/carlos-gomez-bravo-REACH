@@ -1,0 +1,29 @@
+*{font-family: helvetica;}
+body  {
+    text-align: center ; font-family: arial narrow ; font-size: 16px;margin: 0px; background-color: #DA5F5F; color: #4F4A4A;
+
+}
+baseLayers {
+   text-align: left;
+   }
+
+
+nav ul {
+    list-style: none; padding: 0px; display: block;
+    clear: right; background-color: #666;
+    padding-left: 4px; height: 24px;
+}
+
+nav ul li {
+    display: inline; padding: 0px 20px 5px 10px;
+    height: 24px; border-right: 1px solid #ccc;
+}
+
+nav ul li a {
+    color: #EFD3D3; text-decoration: none;
+    font-size: 13px; font-weight: bold;
+}
+
+nav ul li  a:hover {
+	color: #fff;
+}

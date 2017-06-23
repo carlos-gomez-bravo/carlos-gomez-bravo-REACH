@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximun-scale=1.0, user-scalable=no"/>
+    
+    <title>Web-Map RCA</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css">  
+    <link rel="stylesheet" href="lib/styles_prueba.css" />
+    
+    <link rel="stylesheet" href="lib/leaflet-measure.css" />
+    <link rel="stylesheet" href="lib/leaflet.draw.css" />
+
+    <script type="text/javascript" src="https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.js"></script>
+	
+
+	
+   
+    <link rel="stylesheet" href="lib/src/leaflet.draw.css" />
+    
+    
+    
+    <script src="data/IDP_Sites.geojson"></script>
+    <script src="data/Aerodroms.geojson"></script>
+    <script src="data/Ecoles.geojson"></script>
+    <script src="data/PointEau.geojson"></script>
+    <script src="data/Villages.geojson"></script>
+    <script src="data/RoutPral.geojson"></script>
+    <script src="data/Rivieres.geojson"></script>
+   <script src="data/Adm_4.geojson"></script>
+    <script src="data/Adm_3.geojson"></script>
+    <script src="data/Adm_2.geojson"></script>
+    <script src="data/Adm_1.geojson"></script>
+    
+    <script src="cafff.csv"></script>
+    <script src="a.gpx"></script>
+       
+    <link rel="stylesheet" href="lib/leaflet-search.css" />
+      
+</head>
+
+
+<body>
+    <h1>Web Map - Republique Centrafricaine <img src="lib/flag.png" width="70" height="50"></h1>  
+    <nav>
+       <ul>
+        <li><a href="#">Export a PDF</a></li>
+        <li><a href="#">Import KMZ</a></li>
+        <li><a href="Info.txt">Information</a></li>
+       </ul>
+    </nav>
+
+    <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>	  
+    <script src="https://unpkg.com/togeojson@0.14.2"></script>
+   
+         
+    <div id="map" class="map map-home" style="margin:5px 5px 5px 5px;height:600px;"></div>
+    
+    <script type="text/javascript" src="lib/leaflet.filelayer.js"></script>
+     <script type="text/javascript" src="lib/leaflet-measure.js"></script>
+     <script type="text/javascript" src="lib/leaflet-search.js"></script>
+    <script type="text/javascript" src="lib/MousePosition.js"></script>
+    <script type="text/javascript" src="lib/Leaflet.draw.js"></script>
+    <script type="text/javascript" src="lib/leaflet.easyPrint.js"></script>
+    <script type="text/javascript" src="lib/leaflet-omnivore.js"></script>
+    
+    
+    <script src="lib/src/Leaflet.draw.js"></script>
+    <script src="lib/src/Leaflet.Draw.Event.js"></script>
+    <script src="lib/src/Leaflet.Draw.Event.js"></script>
+    <script src="lib/src/Toolbar.js"></script>
+    <script src="lib/src/Tooltip.js"></script>
+
+    <script src="lib/src/ext/GeometryUtil.js"></script>
+    <script src="lib/src/ext/LatLngUtil.js"></script>
+    <script src="lib/src/ext/LineUtil.Intersect.js"></script>
+    <script src="lib/src/ext/Polygon.Intersect.js"></script>
+    <script src="lib/src/ext/Polyline.Intersect.js"></script>
+    <script src="lib/src/ext/TouchEvents.js"></script>
+
+    <script src="lib/src/draw/DrawToolbar.js"></script>
+    <script src="lib/src/draw/handler/Draw.Feature.js"></script>
+    <script src="lib/src/draw/handler/Draw.SimpleShape.js"></script>
+    <script src="lib/src/draw/handler/Draw.Polyline.js"></script>
+    <script src="lib/src/draw/handler/Draw.Circle.js"></script>
+    <script src="lib/src/draw/handler/Draw.Marker.js"></script>
+    <script src="lib/src/draw/handler/Draw.Polygon.js"></script>
+    <script src="lib/src/draw/handler/Draw.Rectangle.js"></script>
+
+
+    <script src="lib/src/edit/EditToolbar.js"></script>
+    <script src="lib/src/edit/handler/EditToolbar.Edit.js"></script>
+    <script src="lib/src/edit/handler/EditToolbar.Delete.js"></script>
+
+    <script src="lib/src/Control.Draw.js"></script>
+
+    <script src="lib/src/edit/handler/Edit.Poly.js"></script>
+    <script src="lib/src/edit/handler/Edit.SimpleShape.js"></script>
+    <script src="lib/src/edit/handler/Edit.Circle.js"></script>
+    <script src="lib/src/edit/handler/Edit.Rectangle.js"></script>
+    <script src="lib/src/edit/handler/Edit.Marker.js"></script>
+
+    <script type="text/javascript" src="BaseMapa.js"></script>
+    
+
+ </body>
+</html>

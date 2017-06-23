@@ -1,0 +1,88 @@
+lat,lon,tot_men,tot_ind,ref_men,ref_ind,ret_men,ret_ind,idp_men,idp_ind,Departement,Commune,Localité,source
+6.01413333,16.47521667,51,340,-,3,4,22,47,315,N'Guigmi,N'Guigmi,Kila Kimane,DREC novembre 2016
+6.4692622,16.4398913,19,86,-,-,-,-,19,86,N'Guigmi,N'Guigmi,Fanta Kaleram,DREC novembre 2016
+6.4641462,16.3963438,161,650,-,-,-,-,161,650,N'Guigmi,N'Guigmi,Faya,DREC novembre 2016
+6.427959,16.415978,823,3883,49,246,49,254,725,3383,N'Guigmi,N'Guigmi,Boula Brin,DREC novembre 2016
+6.4198028,16.4471688,158,709,1,6,-,-,157,703,N'Guigmi,N'Guigmi,Djakime 2,DREC novembre 2016
+6.4170728,16.4637574,641,3158,12,53,51,262,578,2843,N'Guigmi,N'Guigmi,Djakime 1,DREC novembre 2016
+6.412585,16.382548,12,59,-,-,-,-,12,59,N'Guigmi,N'Guigmi,Woudje-Malayari,DREC novembre 2016
+6.4125266,16.3826229,241,1142,2,13,1,6,238,1123,N'Guigmi,N'Guigmi,Malam Yari,DREC novembre 2016
+6.4085606,16.3153995,114,512,18,55,-,-,96,457,N'Guigmi,N'Guigmi,Kangouri ,DREC novembre 2016
+6.4073396,16.4187152,66,350,1,3,-,-,65,347,N'Guigmi,N'Guigmi,Koulbou Koura,DREC novembre 2016
+6.4073396,16.4187152,28,119,-,1,-,-,28,118,N'Guigmi,N'Guigmi,Wouye Kalboukoura,DREC novembre 2016
+6.3838849,16.2725029,106,406,-,-,-,-,106,406,N'Guigmi,N'Guigmi,Bijouram,DREC novembre 2016
+6.3785235,16.2567546,74,326,-,-,-,-,74,326,N'Guigmi,N'Guigmi,Rimi Blakoura,DREC novembre 2016
+6.34756667,16.2109,30,170,-,-,-,-,30,170,N'Guigmi,N'Guigmi,Baram Dawe,DREC novembre 2016
+6.3351171,16.1898891,8,41,-,-,-,-,8,41,N'Guigmi,N'Guigmi,Lari-Kanori,DREC novembre 2016
+6.2827,16.19921667,88,276,-,-,-,-,88,276,N'Guigmi,N'Guigmi,Koutou,DREC novembre 2016
+6.2827,16.19921667,66,324,-,-,-,-,66,324,N'Guigmi,N'Guigmi,Koutou 2,DREC novembre 2016
+6.2796771,16.1452302,229,1214,-,3,2,10,227,1201,N'Guigmi,N'Guigmi,Koudo Kindila,DREC novembre 2016
+6.25186667,16.11255,2748,11028,917,3907,52,213,1779,6908,N'Guigmi,N'Guigmi,N'Guigmi,DREC novembre 2016
+6.229879,17.085229,89,448,-,1,-,-,89,447,N'Guigmi,N'Guigmi,Klakoumana,DREC novembre 2016
+6.1895,17.02831667,368,2061,8,34,3,34,357,1993,N'Guigmi,N'Guigmi,Gagala Peulh,DREC novembre 2016
+6.12898333,18.97913333,48,284,5,23,9,39,34,222,Kabalewa,N'Guigmi,Oudi Peulh,DREC novembre 2016
+6.08508333,17.43135,45,225,2,7,-,-,43,218,N'Guigmi,N'Guigmi,Kindila,DREC novembre 2016
+6.062622,17.012095,66,249,-,-,-,-,66,249,N'Guigmi,N'Guigmi,Nguitchima,DREC novembre 2016
+6.06000042,18.90999985,21,164,-,-,-,-,21,164,Kabalewa,N'Guigmi,Kaoua,DREC novembre 2016
+6.04876667,18.99673333,94,476,-,-,-,-,94,476,N'Guigmi,N'Guigmi,Adjiri,DREC novembre 2016
+7.2847,19.002602,1914,10292,91,448,20,112,1803,9732,Kabalewa,N'Guigmi,Camp De Kabalewa,DREC novembre 2016
+7.2786854,18.9770057,260,1186,19,83,4,11,237,1092,Kabalewa,N'Guigmi,Kabalewa,DREC novembre 2016
+7.26065813,18.97719613,64,367,7,51,5,26,52,290,Toumour,Bosso,Ngadado,DREC novembre 2016
+7.25426667,18.47051667,53,252,4,18,18,105,31,129,Toumour,Bosso,Bourbourwa,DREC novembre 2016
+7.23701667,19.1098,194,1054,1,9,-,-,193,1045,Kabalewa,N'Guigmi,Ari Koukori,DREC novembre 2016
+7.22775,18.87751667,8,48,-,-,-,-,8,48,Kabalewa,N'Guigmi,Kadjidja,DREC novembre 2016
+7.99166,18.75353,290,1557,81,534,60,233,149,790,Toumour,Bosso,Djariho,DREC novembre 2016
+5.9635,18.60567,83,477,25,123,11,72,47,282,Toumour,Bosso,Fourdi,DREC novembre 2016
+5.938172,18.9316,27,155,3,8,-,-,24,147,Gueskérou,Diffa,Kindjandi Arabe,DREC novembre 2016
+5.93774631,18.93360788,4863,23333,1922,9502,61,333,2880,13498,Gueskérou,Diffa,Kindjandi,DREC novembre 2016
+5.930855,19.09491,44,209,3,9,3,25,38,175,Toumour,Bosso,Kakarwa,DREC novembre 2016
+5.924705,19.134072,218,1033,6,22,67,290,145,721,Toumour,Bosso,Guworso,DREC novembre 2016
+5.91073347,19.18594989,164,790,70,371,4,22,90,397,Goudoumaria,Goudoumaria,Goudoumaria,DREC novembre 2016
+5.599194,19.307323,924,4564,474,2286,78,402,372,1876,Bosso,Bosso,Bosso ville,DREC novembre 2016
+5.59494575,16.17593669,1,8,1,8,-,-,-,-,Toumour,Bosso,N'Djaba,DREC novembre 2016
+6.588252,16.0591644,27,131,22,95,-,-,5,36,Toumour,Bosso,Chenal,DREC novembre 2016
+6.577252,16.294001,186,813,11,41,-,-,175,772,Bosso,Bosso,Boulagana ,DREC novembre 2016
+6.567361,16.125649,7162,33124,4167,19078,254,1168,2741,12878,Toumour,Bosso,Toumour,DREC novembre 2016
+6.566735,16.18824,80,346,37,164,5,24,38,158,Toumour,Bosso,Ngouba,DREC novembre 2016
+6.558436,16.020763,1,4,-,-,-,-,1,4,Toumour,Bosso,Boula Harde,DREC novembre 2016
+6.542035,16.237773,52,267,34,169,-,-,18,98,Toumour,Bosso,Nguellehol,DREC novembre 2016
+6.5328286,18.8991321,2752,13103,1822,8736,37,211,893,4156,Gueskérou,Diffa,Garin Wanzam,DREC novembre 2016
+6.52495,18.86496667,39,184,6,21,33,163,-,-,Foulatari,Maïné-Soroa,Beyinga Malam Abdourou,DREC novembre 2016
+6.51972,18.50511,1801,7369,1731,7085,70,284,-,-,Chétimari,Diffa,Sayam Forage,DREC novembre 2016
+6.500783,19.943517,15,78,2,12,13,66,-,-,Maïné-Soroa,Maïné-Soroa,Boudji Kolomi,DREC novembre 2016
+6.76538333,18.1582833,37,187,1,3,33,169,3,15,Foulatari,Maïné-Soroa,Ousseiniram,DREC novembre 2016
+6.75286094,18.8665476,2786,13615,1481,7104,72,405,1233,6106,Gueskérou,Diffa,Ngagam,DREC novembre 2016
+6.75011667,18.05645,3,18,-,-,3,18,-,-,Foulatari,Maïné-Soroa,Foulatari,DREC novembre 2016
+6.7389,18.8431,232,1240,91,471,-,-,141,769,Gueskérou,Diffa,Kangouri Mamadou,DREC novembre 2016
+6.72878333,18.89018333,239,1058,15,62,-,-,224,996,Gueskérou,Diffa,Ngayami,DREC novembre 2016
+6.72316667,18.99163333,35,250,33,226,-,-,2,24,Gueskérou,Diffa,Fowa,DREC novembre 2016
+6.083434,18.843886,527,2670,368,1805,49,271,110,594,Gueskérou,Diffa,Gueskerou,DREC novembre 2016
+6.0434,18.7882,1058,5150,468,2340,26,142,564,2668,Gueskérou,Diffa,El Hadji Mainari,DREC novembre 2016
+6.01473333,18.67308333,180,605,3,12,-,-,177,593,Gueskérou,Diffa,Baroua Koura,DREC novembre 2016
+6.013908,18.770307,475,2615,299,1577,31,208,145,830,Gueskérou,Diffa,Garin Dogo,DREC novembre 2016
+6.01198333,18.81378333,8,36,7,30,-,-,1,6,Gueskérou,Diffa,Dewa Fide,DREC novembre 2016
+6.3844515,18.7142196,848,3961,500,2447,11,62,337,1452,Gueskérou,Diffa,Djalori,DREC novembre 2016
+6.37769279,18.68720569,1587,7578,993,4715,6,25,588,2838,Gueskérou,Diffa,Assaga,DREC novembre 2016
+6.3746,18.6721,93,359,44,219,2,8,47,132,Gueskérou,Diffa,Ngoui Koura,DREC novembre 2016
+6.3423883,18.5887906,457,2363,166,876,53,267,238,1220,Diffa,Diffa,Awaridi,DREC novembre 2016
+6.3342,18.6004,833,4347,293,1509,406,2067,134,771,Diffa,Diffa,Adjimeri,DREC novembre 2016
+6.3292632,18.66723948,127,641,90,449,16,80,21,112,Diffa,Diffa,Kayawa,DREC novembre 2016
+6.3204536,18.598044,514,2364,163,853,101,519,250,992,Diffa,Diffa,Dubaï,DREC novembre 2016
+6.31213333,18.60881667,534,2742,352,1878,48,254,134,610,Diffa,Diffa,Diffa Koura,DREC novembre 2016
+6.309615,18.6196305,686,3528,323,1661,135,687,228,1180,Diffa,Diffa,Festival,DREC novembre 2016
+6.301,18.5929,297,1740,174,961,65,474,58,305,Diffa,Diffa,Sabon Carré,DREC novembre 2016
+6.2685209,18.4900361,2334,11354,1074,5142,49,339,1211,5873,Chétimari,Diffa,Boudouri,DREC novembre 2016
+6.22131751,18.43355426,958,4834,435,1802,-,-,523,3032,Chétimari,Diffa,Maïna Kaderi,DREC novembre 2016
+6.2189746,18.0292091,357,1902,120,696,190,974,47,232,Maïné-Soroa,Maïné-Soroa,Djambourou Dune,DREC novembre 2016
+6.2176,18.0468,580,3187,187,1196,169,904,224,1087,Maïné-Soroa,Maïné-Soroa,Guidan Kadji,DREC novembre 2016
+6.2174827,18.0465509,213,1223,51,294,117,670,45,259,Maïné-Soroa,Maïné-Soroa,Marche De Betail,DREC novembre 2016
+6.2149299,18.0322045,168,819,119,612,44,186,5,21,Maïné-Soroa,Maïné-Soroa,Site Aveugle,DREC novembre 2016
+6.2134667,18.0291167,229,1106,131,573,52,282,46,251,Maïné-Soroa,Maïné-Soroa,Abdouri,DREC novembre 2016
+6.20068269,18.42045853,1053,5164,902,4513,-,-,151,651,Chétimari,Diffa,Gagamari,DREC novembre 2016
+6.19591496,18.12208637,306,1690,57,266,9,49,240,1375,Maïné-Soroa,Maïné-Soroa,Embranchement Tam,DREC novembre 2016
+6.19036494,18.42325164,1031,4256,56,176,-,-,975,4080,Chétimari,Diffa,Ngourtoua,DREC novembre 2016
+6.1855,18.1967,223,1193,16,83,101,546,106,564,Maïné-Soroa,Maïné-Soroa,Kouble Iguire,DREC novembre 2016
+6.18310924,18.42100073,2395,12381,1335,6775,5,51,1055,5555,Chétimari,Diffa,Chetimari,DREC novembre 2016
+6.595019,16.176745, 160,793,55,320,13,57,92,416,Toumour,Bosso,Kacharcho,DREC novembre 2016
+6.17530887,18.2276932,94,489,37,158,40,229,17,102,Maïné-Soroa,Maïné-Soroa,Issari Bagara,DREC novembre 2016
+6.16013524,18.40110858,201,974,17,84,-,-,184,890,Chétimari,Diffa,Mourimadi,DREC novembre 2016
